@@ -19,7 +19,7 @@ namespace MiPrimerProyectoenGithub
             Console.WriteLine("    |     |");
             Console.WriteLine("    |     |");
             Console.WriteLine("    '~~~~~'");
-            Console.WriteLine("Hola a todos!!");
+            Console.WriteLine("  Hola a todos!!");
         }
     }
 }
